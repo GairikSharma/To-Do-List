@@ -33,7 +33,7 @@ body.active{
 }
 
 #theme-toggler:hover {
-    color: green;
+    color: blue;
     box-shadow: .4rem .4rem 1rem #ccc inset,
     -.4rem -.4rem 1rem #fff inset;
 }
