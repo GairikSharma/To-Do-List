@@ -23,5 +23,7 @@ themeToggler.onclick = () => {
     }
     else{
        document.body.classList.remove('active');
+        
     }
  }
+console.log("Hello World");
